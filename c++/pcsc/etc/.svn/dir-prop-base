@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 48
+pcscd.service
+pcscd.socket
+Makefile
+Makefile.in
+
+END

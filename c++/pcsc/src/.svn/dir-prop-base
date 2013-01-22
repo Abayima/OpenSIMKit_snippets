@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 197
+configfile.c
+.deps
+*.la
+libmusclecard.pc
+libpcsclite.pc
+.libs
+*.lo
+Makefile
+Makefile.in
+muscletest
+pcscd
+pcscd.h
+pcsc-wirecheck
+pcsc-wirecheck-dist.c
+pcsc-wirecheck-gen
+tags
+testpcsc
+tokenparser.c
+
+END

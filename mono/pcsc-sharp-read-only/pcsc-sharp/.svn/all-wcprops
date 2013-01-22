@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10/trunk/pcsc-sharp
+END
+Errors.cs
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pcsc-sharp/Errors.cs
+END
+CardShare.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/pcsc-sharp/CardShare.cs
+END
+pcsc-sharp.dll.config
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/pcsc-sharp/pcsc-sharp.dll.config
+END
+CardDisposition.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5/trunk/pcsc-sharp/CardDisposition.cs
+END
+IORequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/4/trunk/pcsc-sharp/IORequest.cs
+END
+Context.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/10/trunk/pcsc-sharp/Context.cs
+END
+Protocols.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/pcsc-sharp/Protocols.cs
+END
+Card.cs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10/trunk/pcsc-sharp/Card.cs
+END
+Scope.cs
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5/trunk/pcsc-sharp/Scope.cs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/pcsc-sharp/Makefile
+END
+CardState.cs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5/trunk/pcsc-sharp/CardState.cs
+END

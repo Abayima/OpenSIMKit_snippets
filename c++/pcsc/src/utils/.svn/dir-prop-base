@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 64
+bundleTool
+.deps
+formaticc
+installifd
+.libs
+Makefile
+Makefile.in
+END

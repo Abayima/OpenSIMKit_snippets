@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 58
+.deps
+Makefile
+Makefile.in
+PCSC.framework
+pcsc-spy.1
+tags
+
+END
